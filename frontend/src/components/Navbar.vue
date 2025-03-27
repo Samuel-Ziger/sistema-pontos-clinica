@@ -11,7 +11,7 @@
   nav {
     display: flex;
     gap: 20px;
-    background: #4CAF50;
+    background: transparent;
     padding: 10px;
   }
   </style>
